@@ -1,0 +1,20 @@
+<svg width="200" height="64" viewBox="0 0 200 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <rect width="64" height="64" rx="12" fill="url(#gradient)"/>
+  <path d="M32 18L22 30H28V46H36V30H42L32 18Z" fill="white"/>
+  
+  <!-- Text -->
+  <text x="80" y="45" font-family="Arial, sans-serif" font-weight="700" font-size="36" fill="url(#textGradient)">Ypilo</text>
+  
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="80" y1="0" x2="200" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#9333EA"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>
